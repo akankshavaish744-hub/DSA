@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/akankshavaish744-hub/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/akankshavaish744-hub/DSA/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/akankshavaish744-hub/DSA/tree/master/0412-fizz-buzz) |
 ## Two Pointers
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/akankshavaish744-hub/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/akankshavaish744-hub/DSA/tree/master/0283-move-zeroes) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/akankshavaish744-hub/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
