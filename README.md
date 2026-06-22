@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akankshavaish744-hub/DSA/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/akankshavaish744-hub/DSA/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/akankshavaish744-hub/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/akankshavaish744-hub/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akankshavaish744-hub/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/akankshavaish744-hub/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/akankshavaish744-hub/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/akankshavaish744-hub/DSA/tree/master/0268-missing-number) |
 ## Sorting
