@@ -93,4 +93,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/akankshavaish744-hub/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akankshavaish744-hub/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/akankshavaish744-hub/DSA/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/akankshavaish744-hub/DSA/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/akankshavaish744-hub/DSA/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
