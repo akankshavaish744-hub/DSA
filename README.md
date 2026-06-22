@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/akankshavaish744-hub/DSA/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/akankshavaish744-hub/DSA/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/akankshavaish744-hub/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/akankshavaish744-hub/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/akankshavaish744-hub/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/akankshavaish744-hub/DSA/tree/master/0268-missing-number) |
@@ -86,4 +87,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/akankshavaish744-hub/DSA/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/akankshavaish744-hub/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
